@@ -1,8 +1,8 @@
-**Truffle v5.5.23**
-**@openzeppelin/contracts: ^4.7.1**
-**ERC-721 Token Name: ARKtoken**
-**ERC-721 Token Symbol: ARK**
-**Token Address on the Rinkeby Network: 0x3f42024B0Aa60bee60B2C449Ef7fAECbeA04646e**
+### Truffle v5.5.23
+### @openzeppelin/contracts: ^4.7.1
+### ERC-721 Token Name: ARKtoken
+### ERC-721 Token Symbol: ARK
+### Token Address on the Rinkeby Network: 0x3f42024B0Aa60bee60B2C449Ef7fAECbeA04646e
 
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
